@@ -10,31 +10,5 @@ h1 {
     font-size: 50px;
     text-align: center;
 }
-<style>
-div {
-  width: 300px;
-  height: 100px;
-  background-color: orange;
-  border: 1px solid black;
-}
-
-#myDiv {
-  transform: rotateY(150deg);
-}
-</style>
-</head>
-<body>
-
-<h1>The rotateY() Method</h1>
-
-<p>The rotateY() method rotates an element around its Y-axis at a given degree.</p>
-
-<div>
-hola.
-</div>
-
-<div id="myDiv">
-helllo .
-</div>
 <html>
 <head>
